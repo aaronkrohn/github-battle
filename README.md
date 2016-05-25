@@ -1,1 +1,1 @@
-"# github-battle" 
+"React course by Tyler McGinnis"
