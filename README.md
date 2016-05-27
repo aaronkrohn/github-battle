@@ -1,1 +1,2 @@
-"React course by Tyler McGinnis"
+React course by Tyler McGinnis
+==============================
